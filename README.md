@@ -23,7 +23,7 @@
 
 TransitTree is an app aimed towards reducing carbon emissions by incentivising the use of public transport primarily through gamification. Additionally, we provide users with an efficient alternative, through the use of AI models we predict traffic patterns and outline the most efficient routes. By doing so, we not only prevent carbon emissions from private transportation but also allow for a faster and more efficient means of transportation.
 
-Feel free to access the demo [here](https://realhuman101.github.io/TransitTree/) and the [pitch deck here](https://1drv.ms/p/s!Ahw-3XkZoLgthKEr_K7V7Akxbd-PBg?e=lelQDN).
+Feel free to access the demo [here](https://valentinabanner.com/TransitTree/) and the [pitch deck here](https://1drv.ms/p/s!Ahw-3XkZoLgthKEr_K7V7Akxbd-PBg?e=lelQDN).
 
 ## Contributing
 
@@ -41,7 +41,7 @@ This project is licensed under the GNU General Public License v3.0. See our [LIC
 
 ## Credits
 
-- [Valentina Banner](https://github.com/realhuman101) - *Developer*
+- [Valentina Banner](https://github.com/bannev1) - *Developer*
 - [Maya Yan](https://github.com/mayahkg) - *Designer*
 - Kylton Kim - *Idea Owner*
 

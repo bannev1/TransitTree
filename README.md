@@ -23,7 +23,7 @@
 
 TransitTree is an app aimed towards reducing carbon emissions by incentivising the use of public transport primarily through gamification. Additionally, we provide users with an efficient alternative, through the use of AI models we predict traffic patterns and outline the most efficient routes. By doing so, we not only prevent carbon emissions from private transportation but also allow for a faster and more efficient means of transportation.
 
-Feel free to access the demo [here](https://valentinabanner.com/TransitTree/) and the [pitch deck here](https://docs.google.com/presentation/d/1KQSksgrEXmz8eAKW4V2FP-iS-Ubu0enh/edit?usp=sharing&ouid=108447555348160158969&rtpof=true&sd=true).
+Feel free to access the [pitch deck here](https://docs.google.com/presentation/d/1KQSksgrEXmz8eAKW4V2FP-iS-Ubu0enh/edit?usp=sharing&ouid=108447555348160158969&rtpof=true&sd=true).
 
 ## Contributing
 
